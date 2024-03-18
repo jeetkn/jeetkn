@@ -16,16 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats-one-henna.vercel.app/api?username=jeetkn&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats-one-henna.vercel.app/api/top-langs/?username=jeetkn&hide_progress=true&hide_border=true&layout=compact&hide=XSLT,html,css,c,c%2B%2B" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>  
-<br/>  
-
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-one-henna.vercel.app/api?username=jeetkn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Jee Taekwan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-one-henna.vercel.app/api/top-langs/?username=jeetkn&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
